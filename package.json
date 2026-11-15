@@ -1,0 +1,12 @@
+{
+  "name": "brandguard-ai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "vercel": "^65.16.0"
+  }
+}
